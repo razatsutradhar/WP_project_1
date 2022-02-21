@@ -2,18 +2,6 @@ body{
 	background-color: #4E9F3D;
 }
 
-#banner{
-	top: 0;
-	left: 0;
-	right: 0;
-	width: 100%;
-	height: 150px;
-	position: absolute;
-	background-color: #E5E3C9;
-	background-repeat: no-repeat;
-	margin-bottom: 3em;
-
-}
 
 #user_img{
 	float: left;
@@ -38,7 +26,7 @@ body{
 
 .Correct img:hover{
 	width: 400px;
-  	height: 300px;
+  	height: 400px;
 }
 
 h2{
@@ -51,28 +39,4 @@ h2{
 h3{
 	font-size: 20pt;
 	text-align: center;
-}
-
-#earnPoint{
-	font-size: 15pt;
-	text-align: center;
-	border: 2 black solid;
-	background-color: #E5E3C9;
-	margin-top: 5px;
-	margin-left: 46%;
-	width: 95px;
-	height: 20px;
-	padding: 5px;
-}
-
-#buttom{
-	font-size: 15pt;
-	text-align: center;
-	border: 2 black solid;
-	background-color: white;
-	margin-top: 50px;
-	margin-left: 44%;
-	width: 150px;
-	height: 30px;
-	padding: 10px;
 }
